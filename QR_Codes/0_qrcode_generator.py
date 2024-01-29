@@ -1,4 +1,5 @@
 import qrcode
+import os
 
 def make_qrcode(filename, input, qr_size):
     if qr_size > 0:
@@ -9,8 +10,7 @@ def make_qrcode(filename, input, qr_size):
     img = qr.make_image()
     img.save(filename)
 
-qr_path = __file__
-
+qr_path = os.path.dirname(__file__) +'/'
 
 #Simple Classics
 make_qrcode(qr_path+'QR_FeedTheMachine.png','https://drive.google.com/file/d/1Db6Ug0zLC6MYR0MDvbHU-q7UPug2lBHZ/view?usp=sharing',177)
