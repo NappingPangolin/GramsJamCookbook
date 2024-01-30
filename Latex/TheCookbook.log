@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.10)  30 JAN 2024 13:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.10)  30 JAN 2024 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -150,11 +150,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [2
 
-] [3] [4]
+]
 \openout2 = `Blues/HowToBlues.aux'.
 
  (Blues/HowToBlues.tex
-<QR_Codes/QR_12BarBlues.png, id=25, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_12BarBlues.png, id=18, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_12BarBlues.png Graphic file (type png)
 <use QR_Codes/QR_12BarBlues.png>
 Package pdftex.def Info: QR_Codes/QR_12BarBlues.png  used on input line 4.
@@ -173,19 +173,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--17
 
  []
 
-) [5
+) [3
 
 
  <./QR_Codes/QR_12BarBlues.png (PNG copy)>]
 \openout2 = `Folk/Misirlou.aux'.
 
- (Folk/Misirlou.tex [6
-
-
-
-
-]
-<QR_Codes/QR_SultansOfSwing_BassChords.png, id=34, 7994.86874pt x 7994.86874pt>
+ (Folk/Misirlou.tex
+<QR_Codes/QR_SultansOfSwing_BassChords.png, id=23, 7994.86874pt x 7994.86874pt>
 
 File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
 <use QR_Codes/QR_SultansOfSwing_BassChords.png>
@@ -202,16 +197,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--34
 
  []
 
-[7 <./QR_Codes/QR_SultansOfSwing_BassChords.png (PNG copy)>]
+[4
+
+
+
+
+ <./QR_Codes/QR_SultansOfSwing_BassChords.png (PNG copy)>]
 \openout2 = `Folk/YorksGuitar.aux'.
 
 
-(Folk/YorksGuitar.tex [8
-
-
-
-
-]
+(Folk/YorksGuitar.tex
 File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
 <use QR_Codes/QR_SultansOfSwing_BassChords.png>
 Package pdftex.def Info: QR_Codes/QR_SultansOfSwing_BassChords.png  used on inp
@@ -227,15 +222,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--35
 
  []
 
-[9]
-\openout2 = `Folk/IkarusDream.aux'.
-
- (Folk/IkarusDream.tex [10
+[5
 
 
 
 
 ]
+\openout2 = `Folk/IkarusDream.aux'.
+
+ (Folk/IkarusDream.tex
 File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
 <use QR_Codes/QR_SultansOfSwing_BassChords.png>
 Package pdftex.def Info: QR_Codes/QR_SultansOfSwing_BassChords.png  used on inp
@@ -251,15 +246,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--36
 
  []
 
-[11]
-\openout2 = `Folk/OverTheRainbow.aux'.
-
- (Folk/OverTheRainbow.tex [12
+[6
 
 
 
 
 ]
+\openout2 = `Folk/OverTheRainbow.aux'.
+
+ (Folk/OverTheRainbow.tex
 File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
 <use QR_Codes/QR_SultansOfSwing_BassChords.png>
 Package pdftex.def Info: QR_Codes/QR_SultansOfSwing_BassChords.png  used on inp
@@ -275,40 +270,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--37
 
  []
 
-[13] [14
+[7
 
 
 
-] [15] [16]
+
+] [8
+
+
+
+]
 \openout2 = `Movies/LuxAeterna.aux'.
 
  (Movies/LuxAeterna.tex
-<QR_Codes/QR_LuxAeterna_CheatSheet.png, id=66, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_LuxAeterna_CheatSheet.png, id=40, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_LuxAeterna_CheatSheet.png Graphic file (type png)
 <use QR_Codes/QR_LuxAeterna_CheatSheet.png>
 Package pdftex.def Info: QR_Codes/QR_LuxAeterna_CheatSheet.png  used on input l
 ine 3.
 (pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
-<QR_Codes/QR_LuxAeterna_Chords.png, id=67, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_LuxAeterna_Chords.png, id=41, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_LuxAeterna_Chords.png Graphic file (type png)
 <use QR_Codes/QR_LuxAeterna_Chords.png>
 Package pdftex.def Info: QR_Codes/QR_LuxAeterna_Chords.png  used on input line 
 9.
 (pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
-) [17
+) [9
 
 
  <./QR_Codes/QR_LuxAeterna_CheatSheet.png (PNG copy)> <./QR_Codes/QR_LuxAeterna
-_Chords.png (PNG copy)>]
-[18
+_Chords.png (PNG copy)>] [10
 
 
 
-] [19] [20]
+]
 \openout2 = `Pop/HitTheRoadJack.aux'.
 
- (Pop/HitTheRoadJack.tex
-<QR_Codes/QR_HitTheRoadJack_Chords.png, id=81, 7994.86874pt x 7994.86874pt>
+
+(Pop/HitTheRoadJack.tex
+<QR_Codes/QR_HitTheRoadJack_Chords.png, id=48, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_HitTheRoadJack_Chords.png Graphic file (type png)
 <use QR_Codes/QR_HitTheRoadJack_Chords.png>
 Package pdftex.def Info: QR_Codes/QR_HitTheRoadJack_Chords.png  used on input l
@@ -324,20 +324,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-) [21
+) [11
 
 
  <./QR_Codes/QR_HitTheRoadJack_Chords.png (PNG copy)>]
 \openout2 = `Pop/SixteenTons.aux'.
 
 
-(Pop/SixteenTons.tex [22
-
-
-
-
-]
-<QR_Codes/QR_SixteenTons_Chords.png, id=88, 7994.86874pt x 7994.86874pt>
+(Pop/SixteenTons.tex
+<QR_Codes/QR_SixteenTons_Chords.png, id=53, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_SixteenTons_Chords.png Graphic file (type png)
 <use QR_Codes/QR_SixteenTons_Chords.png>
 Package pdftex.def Info: QR_Codes/QR_SixteenTons_Chords.png  used on input line
@@ -353,17 +348,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-) [23 <./QR_Codes/QR_SixteenTons_Chords.png (PNG copy)>]
+) [12
+
+
+
+
+ <./QR_Codes/QR_SixteenTons_Chords.png (PNG copy)>]
 \openout2 = `Pop/FeedTheMachine.aux'.
 
 
-(Pop/FeedTheMachine.tex [24
-
-
-
-
-]
-<QR_Codes/QR_FeedTheMachine.png, id=96, 7994.86874pt x 7994.86874pt>
+(Pop/FeedTheMachine.tex
+<QR_Codes/QR_FeedTheMachine.png, id=57, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_FeedTheMachine.png Graphic file (type png)
 <use QR_Codes/QR_FeedTheMachine.png>
 Package pdftex.def Info: QR_Codes/QR_FeedTheMachine.png  used on input line 4.
@@ -383,16 +378,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-) [25 <./QR_Codes/QR_FeedTheMachine.png (PNG copy)>]
+) [13
+
+
+
+
+ <./QR_Codes/QR_FeedTheMachine.png (PNG copy)>]
 \openout2 = `Rock/SultansOfSwing.aux'.
 
  (Rock/SultansOfSwing.tex
-[26
-
-
-
-
-]
 File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
 <use QR_Codes/QR_SultansOfSwing_BassChords.png>
 Package pdftex.def Info: QR_Codes/QR_SultansOfSwing_BassChords.png  used on inp
@@ -413,7 +407,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-) [27] [28
+) [14
+
+
+
+
+] [15
 
 
 ] (TheCookbook.aux (Blues/HowToBlues.aux) (Folk/Misirlou.aux)
@@ -423,7 +422,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 Here is how much of TeX's memory you used:
  2259 strings out of 475385
  43879 string characters out of 2775962
- 381350 words of memory out of 3000000
+ 380427 words of memory out of 3000000
  23569 multiletter control sequences out of 15000+600000
  474474 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -434,11 +433,10 @@ ai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
 Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
 0.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr17.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmsl10.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TheCookbook.pdf (30 pages, 301284 bytes).
+lic/amsfonts/cm/cmsy10.pfb>
+Output written on TheCookbook.pdf (17 pages, 281518 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
