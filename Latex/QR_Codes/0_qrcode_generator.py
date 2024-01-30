@@ -27,3 +27,5 @@ make_qrcode(qr_path+'QR_SultansOfSwing_BassChords.png','https://drive.google.com
 make_qrcode(qr_path+'QR_LuxAeterna_CheatSheet.png','https://drive.google.com/file/d/1AvHzKg3lPEnnRlelcVWPcTGUGytP3JMC/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_LuxAeterna_Chords.png','https://drive.google.com/file/d/1spoS4tFDuOX45NCh1EDfrDmjujJ_5gaF/view?usp=sharing',177)
 
+
+make_qrcode(qr_path+'QR_SpotifyPlaylist.png','https://open.spotify.com/playlist/29o5CLQWelLBBaHMstmTTg?si=cf957ec2a51848a2',177)

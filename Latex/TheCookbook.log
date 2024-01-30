@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.10)  30 JAN 2024 13:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.10)  30 JAN 2024 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -412,31 +412,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
 
 
-] [15
+]
+<QR_Codes/QR_SpotifyPlaylist.png, id=64, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_SpotifyPlaylist.png Graphic file (type png)
+<use QR_Codes/QR_SpotifyPlaylist.png>
+Package pdftex.def Info: QR_Codes/QR_SpotifyPlaylist.png  used on input line 54
+.
+(pdftex.def)             Requested size: 345.0pt x 344.99258pt.
+ [15
 
 
-] (TheCookbook.aux (Blues/HowToBlues.aux) (Folk/Misirlou.aux)
-(Folk/YorksGuitar.aux) (Folk/IkarusDream.aux) (Folk/OverTheRainbow.aux)
-(Movies/LuxAeterna.aux) (Pop/HitTheRoadJack.aux) (Pop/SixteenTons.aux)
-(Pop/FeedTheMachine.aux) (Rock/SultansOfSwing.aux)) ) 
+
+ <./QR_Codes/QR_SpotifyPlaylist.png (PNG copy)>] (TheCookbook.aux
+(Blues/HowToBlues.aux) (Folk/Misirlou.aux) (Folk/YorksGuitar.aux)
+(Folk/IkarusDream.aux) (Folk/OverTheRainbow.aux) (Movies/LuxAeterna.aux)
+(Pop/HitTheRoadJack.aux) (Pop/SixteenTons.aux) (Pop/FeedTheMachine.aux)
+(Rock/SultansOfSwing.aux)) ) 
 Here is how much of TeX's memory you used:
- 2259 strings out of 475385
- 43879 string characters out of 2775962
- 380427 words of memory out of 3000000
- 23569 multiletter control sequences out of 15000+600000
+ 2266 strings out of 475385
+ 44118 string characters out of 2775962
+ 381424 words of memory out of 3000000
+ 23575 multiletter control sequences out of 15000+600000
  474474 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,62p,680b,183s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/Potzkai/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Potzk
-ai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
-Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr17.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb>
-Output written on TheCookbook.pdf (17 pages, 281518 bytes).
+<C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Potzkai/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Potzkai/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Potzkai/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users
+/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b>
+Output written on TheCookbook.pdf (17 pages, 307216 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 90 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
