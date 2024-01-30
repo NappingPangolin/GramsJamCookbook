@@ -1,0 +1,54 @@
+\documentclass{book}
+\makeatletter
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\DeclareGraphicsExtensions{.jpg}%%%sollte igtl rein!
+\usepackage{xcolor}
+\def\@makechapterhead#1{%
+  \vspace*{50\p@}%                                 % Insert 50pt (vertical) space
+  {\parindent \z@ \raggedright \normalfont         % No paragraph indent, ragged right
+    \ifnum \c@secnumdepth >\m@ne                   % If you should number chapters
+      \if@mainmatter                               % ... and you're in \mainmatter
+        \huge\bfseries \@chapapp\space \thechapter % huge, bold, Chapter + number
+        \par\nobreak                               % paragraph break without page break
+        \vskip 20\p@                               % Insert 20pt (vertical) space
+      \fi
+    \fi
+    \interlinepenalty\@M                           % Penalty
+    \Huge \bfseries #1\par\nobreak                 % Huge, bold chapter title
+    \vskip 40\p@                                   % Insert 40pt (vertical) space
+  }}
+\makeatother
+\title{Grams best Jams\\the ultimate cookbook}
+\author{}
+\date{}
+\begin{document}
+\maketitle
+\frontmatter
+\tableofcontents
+
+%%%%%
+\part{Jazz, Blues, Folk... you get the gist}
+
+\include{Blues/HowToBlues}
+\include{Folk/Misirlou}
+\include{Folk/YorksGuitar}
+\include{Folk/IkarusDream}
+\include{Folk/OverTheRainbow}
+
+%%%%
+\part{Movies and Games}
+
+\include{Movies/LuxAeterna}
+
+%%%%
+\part{Pop and Rock}
+
+\include{Pop/HitTheRoadJack}
+\include{Pop/SixteenTons}
+\include{Pop/FeedTheMachine}
+
+\include{Rock/SultansOfSwing}
+
+\
+\end{document}

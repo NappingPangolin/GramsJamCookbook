@@ -1,0 +1,444 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.10)  30 JAN 2024 13:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./TheCookbook.tex
+(TheCookbook.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen139
+\stockheight=\dimen140
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen143
+\WF@size=\dimen144
+\c@WF@wrappedlines=\count194
+\WF@box=\box51
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box52
+) (TheCookbook.aux (Blues/HowToBlues.aux) (Folk/Misirlou.aux)
+(Folk/YorksGuitar.aux) (Folk/IkarusDream.aux) (Folk/OverTheRainbow.aux)
+(Movies/LuxAeterna.aux) (Pop/HitTheRoadJack.aux) (Pop/SixteenTons.aux)
+(Pop/FeedTheMachine.aux) (Rock/SultansOfSwing.aux))
+\openout1 = `TheCookbook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen145
+\scratchbox=\box53
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen146
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Potzkai\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+ [1
+
+
+{C:/Users/Potzkai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+[2
+
+] (TheCookbook.toc)
+\tf@toc=\write3
+\openout3 = `TheCookbook.toc'.
+
+ [1
+
+] [2
+
+] [3] [4]
+\openout2 = `Blues/HowToBlues.aux'.
+
+ (Blues/HowToBlues.tex
+<QR_Codes/QR_12BarBlues.png, id=25, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_12BarBlues.png Graphic file (type png)
+<use QR_Codes/QR_12BarBlues.png>
+Package pdftex.def Info: QR_Codes/QR_12BarBlues.png  used on input line 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 1009) in paragraph at lines 4--6
+\OT1/cmr/m/n/10 Sheet for the 12 Bar
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--17
+
+ []
+
+) [5
+
+
+ <./QR_Codes/QR_12BarBlues.png (PNG copy)>]
+\openout2 = `Folk/Misirlou.aux'.
+
+ (Folk/Misirlou.tex [6
+
+
+
+
+]
+<QR_Codes/QR_SultansOfSwing_BassChords.png, id=34, 7994.86874pt x 7994.86874pt>
+
+File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
+<use QR_Codes/QR_SultansOfSwing_BassChords.png>
+Package pdftex.def Info: QR_Codes/QR_SultansOfSwing_BassChords.png  used on inp
+ut line 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+\OT1/cmr/m/n/10 Many Many Sheets
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 11--34
+
+ []
+
+[7 <./QR_Codes/QR_SultansOfSwing_BassChords.png (PNG copy)>]
+\openout2 = `Folk/YorksGuitar.aux'.
+
+
+(Folk/YorksGuitar.tex [8
+
+
+
+
+]
+File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
+<use QR_Codes/QR_SultansOfSwing_BassChords.png>
+Package pdftex.def Info: QR_Codes/QR_SultansOfSwing_BassChords.png  used on inp
+ut line 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+\OT1/cmr/m/n/10 Many Many Sheets
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 10--35
+
+ []
+
+[9]
+\openout2 = `Folk/IkarusDream.aux'.
+
+ (Folk/IkarusDream.tex [10
+
+
+
+
+]
+File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
+<use QR_Codes/QR_SultansOfSwing_BassChords.png>
+Package pdftex.def Info: QR_Codes/QR_SultansOfSwing_BassChords.png  used on inp
+ut line 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+\OT1/cmr/m/n/10 Many Many Sheets
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--36
+
+ []
+
+[11]
+\openout2 = `Folk/OverTheRainbow.aux'.
+
+ (Folk/OverTheRainbow.tex [12
+
+
+
+
+]
+File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
+<use QR_Codes/QR_SultansOfSwing_BassChords.png>
+Package pdftex.def Info: QR_Codes/QR_SultansOfSwing_BassChords.png  used on inp
+ut line 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+\OT1/cmr/m/n/10 Many Many Sheets
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--37
+
+ []
+
+[13] [14
+
+
+
+] [15] [16]
+\openout2 = `Movies/LuxAeterna.aux'.
+
+ (Movies/LuxAeterna.tex
+<QR_Codes/QR_LuxAeterna_CheatSheet.png, id=66, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_LuxAeterna_CheatSheet.png Graphic file (type png)
+<use QR_Codes/QR_LuxAeterna_CheatSheet.png>
+Package pdftex.def Info: QR_Codes/QR_LuxAeterna_CheatSheet.png  used on input l
+ine 3.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+<QR_Codes/QR_LuxAeterna_Chords.png, id=67, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_LuxAeterna_Chords.png Graphic file (type png)
+<use QR_Codes/QR_LuxAeterna_Chords.png>
+Package pdftex.def Info: QR_Codes/QR_LuxAeterna_Chords.png  used on input line 
+9.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+) [17
+
+
+ <./QR_Codes/QR_LuxAeterna_CheatSheet.png (PNG copy)> <./QR_Codes/QR_LuxAeterna
+_Chords.png (PNG copy)>]
+[18
+
+
+
+] [19] [20]
+\openout2 = `Pop/HitTheRoadJack.aux'.
+
+ (Pop/HitTheRoadJack.tex
+<QR_Codes/QR_HitTheRoadJack_Chords.png, id=81, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_HitTheRoadJack_Chords.png Graphic file (type png)
+<use QR_Codes/QR_HitTheRoadJack_Chords.png>
+Package pdftex.def Info: QR_Codes/QR_HitTheRoadJack_Chords.png  used on input l
+ine 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+) [21
+
+
+ <./QR_Codes/QR_HitTheRoadJack_Chords.png (PNG copy)>]
+\openout2 = `Pop/SixteenTons.aux'.
+
+
+(Pop/SixteenTons.tex [22
+
+
+
+
+]
+<QR_Codes/QR_SixteenTons_Chords.png, id=88, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_SixteenTons_Chords.png Graphic file (type png)
+<use QR_Codes/QR_SixteenTons_Chords.png>
+Package pdftex.def Info: QR_Codes/QR_SixteenTons_Chords.png  used on input line
+ 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+) [23 <./QR_Codes/QR_SixteenTons_Chords.png (PNG copy)>]
+\openout2 = `Pop/FeedTheMachine.aux'.
+
+
+(Pop/FeedTheMachine.tex [24
+
+
+
+
+]
+<QR_Codes/QR_FeedTheMachine.png, id=96, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_FeedTheMachine.png Graphic file (type png)
+<use QR_Codes/QR_FeedTheMachine.png>
+Package pdftex.def Info: QR_Codes/QR_FeedTheMachine.png  used on input line 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+) [25 <./QR_Codes/QR_FeedTheMachine.png (PNG copy)>]
+\openout2 = `Rock/SultansOfSwing.aux'.
+
+ (Rock/SultansOfSwing.tex
+[26
+
+
+
+
+]
+File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
+<use QR_Codes/QR_SultansOfSwing_BassChords.png>
+Package pdftex.def Info: QR_Codes/QR_SultansOfSwing_BassChords.png  used on inp
+ut line 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+) [27] [28
+
+
+] (TheCookbook.aux (Blues/HowToBlues.aux) (Folk/Misirlou.aux)
+(Folk/YorksGuitar.aux) (Folk/IkarusDream.aux) (Folk/OverTheRainbow.aux)
+(Movies/LuxAeterna.aux) (Pop/HitTheRoadJack.aux) (Pop/SixteenTons.aux)
+(Pop/FeedTheMachine.aux) (Rock/SultansOfSwing.aux)) ) 
+Here is how much of TeX's memory you used:
+ 2259 strings out of 475385
+ 43879 string characters out of 2775962
+ 381350 words of memory out of 3000000
+ 23569 multiletter control sequences out of 15000+600000
+ 474474 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,680b,183s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/Potzkai/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Potzk
+ai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
+Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmsl10.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on TheCookbook.pdf (30 pages, 301284 bytes).
+PDF statistics:
+ 135 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

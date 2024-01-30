@@ -1,0 +1,13 @@
+\contentsline {part}{I\hspace {1em}Jazz, Blues, Folk... you get the gist}{iii}{}%
+\contentsline {chapter}{How To Blues}{v}{}%
+\contentsline {chapter}{Misirlou}{vii}{}%
+\contentsline {chapter}{Yorks Guitar}{ix}{}%
+\contentsline {chapter}{Ikarus Dream}{xi}{}%
+\contentsline {chapter}{Over The Rainbow}{xiii}{}%
+\contentsline {part}{II\hspace {1em}Movies and Games}{xv}{}%
+\contentsline {chapter}{Lux Aeterna}{xvii}{}%
+\contentsline {part}{III\hspace {1em}Pop and Rock}{xix}{}%
+\contentsline {chapter}{Hit The Road Jack}{xxi}{}%
+\contentsline {chapter}{Sixteen Tons}{xxiii}{}%
+\contentsline {chapter}{Feed The Machine}{xxv}{}%
+\contentsline {chapter}{Sultans Of Swing}{xxvii}{}%
