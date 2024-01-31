@@ -1,14 +1,15 @@
-\contentsline {part}{I\hspace {1em}Jazz, Blues, Folk... you get the gist}{ii}{}%
-\contentsline {chapter}{How To Blues}{iii}{}%
-\contentsline {chapter}{Misirlou}{iv}{}%
-\contentsline {chapter}{Yorks Guitar}{v}{}%
-\contentsline {chapter}{Ikarus Dream}{vi}{}%
-\contentsline {chapter}{Over The Rainbow}{vii}{}%
-\contentsline {part}{II\hspace {1em}Movies and Games}{viii}{}%
-\contentsline {chapter}{Lux Aeterna}{ix}{}%
-\contentsline {part}{III\hspace {1em}Pop and Rock}{x}{}%
-\contentsline {chapter}{Hit The Road Jack}{xi}{}%
-\contentsline {chapter}{Sixteen Tons}{xii}{}%
-\contentsline {chapter}{Feed The Machine}{xiii}{}%
-\contentsline {chapter}{Sultans Of Swing}{xiv}{}%
-\contentsline {chapter}{}{xv}{}%
+\contentsline {part}{I\hspace {1em}Easy Starters}{ii}{}%
+\contentsline {chapter}{Lux Aeterna}{iii}{}%
+\contentsline {chapter}{Hit The Road Jack}{iv}{}%
+\contentsline {chapter}{Feed The Machine}{v}{}%
+\contentsline {chapter}{Sixteen Tons}{vi}{}%
+\contentsline {part}{II\hspace {1em}A bit more advanced!}{vii}{}%
+\contentsline {chapter}{Sultans Of Swing}{viii}{}%
+\contentsline {chapter}{Over The Rainbow}{ix}{}%
+\contentsline {part}{III\hspace {1em}Jazz, Blues, Folk... you get the gist. Time for instruments that won't call notes by their real names!}{x}{}%
+\contentsline {chapter}{How To Blues}{xi}{}%
+\contentsline {chapter}{Miserlou}{xii}{}%
+\contentsline {chapter}{Die Reise Nach Batumi}{xiii}{}%
+\contentsline {chapter}{Giovanni Tranquillo}{xiv}{}%
+\contentsline {chapter}{Mohn}{xv}{}%
+\contentsline {chapter}{}{xvi}{}%
