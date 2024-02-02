@@ -53,7 +53,9 @@ make_qrcode(qr_path+'QR_12BarBlues.png','https://drive.google.com/file/d/1OHr9iw
 make_qrcode(qr_path+'QR_SultansOfSwing_BassChords.png','https://drive.google.com/file/d/14Mgmnunz_iVf0pWnBqPTu4IfZM3BnELL/view?usp=sharing',177)
 
 #Movie and Games
-make_qrcode(qr_path+'QR_LuxAeterna_CheatSheet.png','https://drive.google.com/file/d/1AvHzKg3lPEnnRlelcVWPcTGUGytP3JMC/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_LuxAeterna_C.png','https://drive.google.com/file/d/1AvHzKg3lPEnnRlelcVWPcTGUGytP3JMC/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_LuxAeterna_Bb.png','https://drive.google.com/file/d/1NPdjVjOLweDTzEvUCHCUMQDK6Kw2JQt_/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_LuxAeterna_Eb.png','https://drive.google.com/file/d/1Taa9JOiNix9KWtuwoB_Kr5P-veFFs4QZ/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_LuxAeterna_Chords.png','https://drive.google.com/file/d/1spoS4tFDuOX45NCh1EDfrDmjujJ_5gaF/view?usp=sharing',177)
 
 
