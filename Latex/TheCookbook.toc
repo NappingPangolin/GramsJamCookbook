@@ -1,15 +1,21 @@
-\contentsline {part}{I\hspace {1em}Easy Starters}{ii}{}%
-\contentsline {chapter}{Lux Aeterna}{iii}{}%
-\contentsline {chapter}{Hit The Road Jack}{iv}{}%
-\contentsline {chapter}{Feed The Machine}{v}{}%
-\contentsline {chapter}{Sixteen Tons}{vi}{}%
-\contentsline {part}{II\hspace {1em}A bit more advanced!}{vii}{}%
-\contentsline {chapter}{Sultans Of Swing}{viii}{}%
+\contentsline {part}{I\hspace {1em}Easy Starters}{iii}{}%
+\contentsline {chapter}{Lux Aeterna}{iv}{}%
+\contentsline {chapter}{Hit The Road Jack}{v}{}%
+\contentsline {chapter}{Feed The Machine}{vi}{}%
+\contentsline {chapter}{Sixteen Tons}{vii}{}%
+\contentsline {part}{II\hspace {1em}A bit more advanced! With sheets for instruments that won't call notes by their real names!}{viii}{}%
 \contentsline {chapter}{Over The Rainbow}{ix}{}%
-\contentsline {part}{III\hspace {1em}Jazz, Blues, Folk... you get the gist. Time for instruments that won't call notes by their real names!}{x}{}%
-\contentsline {chapter}{How To Blues}{xi}{}%
-\contentsline {chapter}{Miserlou}{xii}{}%
-\contentsline {chapter}{Die Reise Nach Batumi}{xiii}{}%
-\contentsline {chapter}{Giovanni Tranquillo}{xiv}{}%
-\contentsline {chapter}{Mohn}{xv}{}%
-\contentsline {chapter}{}{xvi}{}%
+\contentsline {chapter}{Sultans Of Swing}{x}{}%
+\contentsline {chapter}{Billie Jean}{xi}{}%
+\contentsline {chapter}{Nothing Else Matters}{xii}{}%
+\contentsline {part}{III\hspace {1em}Jazz, Blues, Folk... you get the gist. }{xiii}{}%
+\contentsline {chapter}{How To Blues}{xiv}{}%
+\contentsline {chapter}{Ain't no Sunshine}{xv}{}%
+\contentsline {chapter}{Miserlou}{xvi}{}%
+\contentsline {chapter}{Die Reise Nach Batumi}{xvii}{}%
+\contentsline {chapter}{Giovanni Tranquillo}{xviii}{}%
+\contentsline {chapter}{Yorke's Guitar}{xix}{}%
+\contentsline {chapter}{Mohn}{xx}{}%
+\contentsline {part}{IV\hspace {1em}For our friends over 80}{xxi}{}%
+\contentsline {chapter}{Für mich soll's Rote Rosen Regnen}{xxii}{}%
+\contentsline {chapter}{}{xxiii}{}%

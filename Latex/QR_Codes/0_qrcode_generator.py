@@ -18,6 +18,17 @@ make_qrcode(qr_path+'QR_SixteenTons_Chords.png','https://drive.google.com/file/d
 make_qrcode(qr_path+'QR_HitTheRoadJack_Chords.png','https://drive.google.com/file/d/1_DVB0jdnRM9bB043iI_6aLIJ1hE3N0GM/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_OverTheRainbow_Chords.png','https://drive.google.com/file/d/1SXx1NqfWU1IdkkgBVRZP13PF4S6gko7s/view?usp=sharing',177)
 
+#Pop
+#Billie Jean
+make_qrcode(qr_path+'QR_BillieJean_C.png','https://drive.google.com/file/d/1rDaPzEzP3Rv0SlOV0sjytDD_A0gnCRK3/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_BillieJean_Eb.png','https://drive.google.com/file/d/1652P_ydqHeLwL8bpmBjK258P50WBfyj6/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_BillieJean_Bb.png','https://drive.google.com/file/d/13w8zDBYhQnN0QGPTI-ZnAXbwQRi2Kjke/view?usp=sharing',177)
+#FuerMichSollsRoteRosenRegnen
+make_qrcode(qr_path+'QR_RoteRosenRegnen_C.png','https://drive.google.com/file/d/1USPjPHN5qE2BbEhuDVMcH0oZOgt7_hn7/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_RoteRosenRegnen_Bb.png','https://drive.google.com/file/d/1Fzi6QT2e78Y9HTl6tjKLdjYImgDMNxgh/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_RoteRosenRegnen_Eb.png','https://drive.google.com/file/d/1JBm830-YOsqzlykb7-GoCZs3grpMC6m0/view?usp=sharing',177)
+
+
 #QuadroNuevo
 #Die Reise nach Batumi
 make_qrcode(qr_path+'QR_DieReiseNachBatumi_Bass.png','https://drive.google.com/file/d/1iSPA3IWUr3DmcvPvOctcOn4WfdtGQP4Z/view?usp=sharing',177)
@@ -44,13 +55,28 @@ make_qrcode(qr_path+'QR_Mohn_Klar_1_B.png','https://drive.google.com/file/d/1FKO
 make_qrcode(qr_path+'QR_Mohn_Klavier.png','https://drive.google.com/file/d/1bycAD2f8wYfU0EuVWYc3qwjrG_y0SiHB/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_Mohn_TenSax_2.png','https://drive.google.com/file/d/1xaw-oQiuNXWcXwX3eJS8xPMewCeF5H9x/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_Mohn_TenSax_1.png','https://drive.google.com/file/d/1MXJHmco-EpWZN3GGu6LBI31jbya3BxaL/view?usp=sharing',177)
+#Yorkers Guitar
+make_qrcode(qr_path+'QR_Yorkers_C.png','https://drive.google.com/file/d/1cpq13ie8mZ8jweh23KzJphahwE79rBV_/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_Yorkers_Bb_Clar.png','https://drive.google.com/file/d/192KkyVI1op3xQeeSl79NbRI7XU7RLdKN/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_Yorkers_Bb_TenSax.png','https://drive.google.com/file/d/1AyyYxG47Pawg77roHWLO6C_e7vDMWtFw/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_Yorkers_Eb.png','https://drive.google.com/file/d/1BkZW8RrArcACnMg5gM0vbkTPNRSUbaUl/view?usp=sharing',177)
 
 
 #Blues
 make_qrcode(qr_path+'QR_12BarBlues.png','https://drive.google.com/file/d/1OHr9iwjNYFbsxZHoa1RS-AfROFuDm8Ch/view?usp=sharing',177)
+#Aint No Sunshine
+make_qrcode(qr_path+'QR_AintNoSunshine_C.png','https://drive.google.com/file/d/1J_ZdZNUzUseTFA3Mi_fjkeeTvPVIrYqT/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_AintNoSunshine_Bb.png','https://drive.google.com/file/d/13f2lNUz1C247Ogn2C5tAnVGWg88JS_gu/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_AintNoSunshine_Eb.png','https://drive.google.com/file/d/1dTvrf3A48ORShqTAbUJTz7ogntp70PrM/view?usp=sharing',177)
 
 #Rock songs
 make_qrcode(qr_path+'QR_SultansOfSwing_BassChords.png','https://drive.google.com/file/d/14Mgmnunz_iVf0pWnBqPTu4IfZM3BnELL/view?usp=sharing',177)
+
+#Nothing Else Matters
+make_qrcode(qr_path+'QR_NothingElseMatters_C.png','https://drive.google.com/file/d/1QV1lAMdvw9MQjaJry_E1cfQB_R1GMIM5/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_NothingElseMatters_Bb_TenSax.png','https://drive.google.com/file/d/1FUrmalJmJsJ6YSIuoJ39RbBjvwQIzJvW/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_NothingElseMatters_Bb_Clar.png','https://drive.google.com/file/d/1M0lCglMcjoq9CazwwvrmcfK8G2shlN8h/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_NothingElseMatters_Eb.png','https://drive.google.com/file/d/1uVsQ0sEYltGi3-CQphSvynD7fugo4Fnu/view?usp=sharing',177)
 
 #Movie and Games
 make_qrcode(qr_path+'QR_LuxAeterna_C.png','https://drive.google.com/file/d/1AvHzKg3lPEnnRlelcVWPcTGUGytP3JMC/view?usp=sharing',177)

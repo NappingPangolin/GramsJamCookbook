@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.10)  2 FEB 2024 13:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.10)  5 FEB 2024 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -103,9 +103,11 @@ File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box54
 ) (TheCookbook.aux (Movies/LuxAeterna.aux) (Pop/HitTheRoadJack.aux)
-(Pop/FeedTheMachine.aux) (Pop/SixteenTons.aux) (Rock/SultansOfSwing.aux)
-(Folk/OverTheRainbow.aux) (Blues/HowToBlues.aux) (Folk/Miserlou.aux)
-(Folk/DieReiseNachBatumi.aux) (Folk/Giovanni.aux) (Folk/Mohn.aux))
+(Pop/FeedTheMachine.aux) (Pop/SixteenTons.aux) (Folk/OverTheRainbow.aux)
+(Rock/SultansOfSwing.aux) (Pop/BillieJean.aux) (Rock/NothingElseMatters.aux)
+(Blues/HowToBlues.aux) (Blues/AintNoSunshine.aux) (Folk/Miserlou.aux)
+(Folk/DieReiseNachBatumi.aux) (Folk/Giovanni.aux) (Folk/YorkersGuitar.aux)
+(Folk/Mohn.aux) (Pop/RoteRosenRegnen.aux))
 \openout1 = `TheCookbook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -160,19 +162,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/Potzkai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 [2
 
-] (TheCookbook.toc)
+] (TheCookbook.toc [1
+
+])
 \tf@toc=\write3
 \openout3 = `TheCookbook.toc'.
 
- [1
-
-] [2
+ [2] [3
 
 ]
 \openout2 = `Movies/LuxAeterna.aux'.
 
  (Movies/LuxAeterna.tex
-<QR_Codes/QR_LuxAeterna_C.png, id=18, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_LuxAeterna_C.png, id=22, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_LuxAeterna_C.png Graphic file (type png)
 <use QR_Codes/QR_LuxAeterna_C.png>
 Package pdftex.def Info: QR_Codes/QR_LuxAeterna_C.png  used on input line 3.
@@ -181,7 +183,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 9.
-<QR_Codes/QR_LuxAeterna_Chords.png, id=19, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_LuxAeterna_Chords.png, id=23, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_LuxAeterna_Chords.png Graphic file (type png)
 <use QR_Codes/QR_LuxAeterna_Chords.png>
 Package pdftex.def Info: QR_Codes/QR_LuxAeterna_Chords.png  used on input line 
@@ -192,7 +194,7 @@ Overfull \hbox (6.90147pt too wide) in paragraph at lines 14--15
 []|[]| 
  []
 
-<QR_Codes/QR_LuxAeterna_Bb.png, id=20, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_LuxAeterna_Bb.png, id=24, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_LuxAeterna_Bb.png Graphic file (type png)
 <use QR_Codes/QR_LuxAeterna_Bb.png>
 Package pdftex.def Info: QR_Codes/QR_LuxAeterna_Bb.png  used on input line 17.
@@ -202,7 +204,7 @@ Overfull \hbox (6.90147pt too wide) in paragraph at lines 17--18
 []|[]| 
  []
 
-<QR_Codes/QR_LuxAeterna_Eb.png, id=21, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_LuxAeterna_Eb.png, id=25, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_LuxAeterna_Eb.png Graphic file (type png)
 <use QR_Codes/QR_LuxAeterna_Eb.png>
 Package pdftex.def Info: QR_Codes/QR_LuxAeterna_Eb.png  used on input line 20.
@@ -232,7 +234,7 @@ Overfull \hbox (2.54768pt too wide) in paragraph at lines 13--37
 [][] 
  []
 
-[3
+[4
 
 
  <./QR_Codes/QR_LuxAeterna_C.png (PNG copy)> <./QR_Codes/QR_LuxAeterna_Chords.p
@@ -241,7 +243,7 @@ eterna_Eb.png (PNG copy)>]
 \openout2 = `Pop/HitTheRoadJack.aux'.
 
  (Pop/HitTheRoadJack.tex
-<QR_Codes/QR_HitTheRoadJack_Chords.png, id=26, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_HitTheRoadJack_Chords.png, id=30, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_HitTheRoadJack_Chords.png Graphic file (type png)
 <use QR_Codes/QR_HitTheRoadJack_Chords.png>
 Package pdftex.def Info: QR_Codes/QR_HitTheRoadJack_Chords.png  used on input l
@@ -257,7 +259,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-) [4
+) [5
 
 
 
@@ -267,7 +269,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
 
 (Pop/FeedTheMachine.tex
-<QR_Codes/QR_FeedTheMachine.png, id=30, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_FeedTheMachine.png, id=35, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_FeedTheMachine.png Graphic file (type png)
 <use QR_Codes/QR_FeedTheMachine.png>
 Package pdftex.def Info: QR_Codes/QR_FeedTheMachine.png  used on input line 4.
@@ -287,7 +289,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-) [5
+) [6
 
 
 
@@ -296,7 +298,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 \openout2 = `Pop/SixteenTons.aux'.
 
  (Pop/SixteenTons.tex
-<QR_Codes/QR_SixteenTons_Chords.png, id=35, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_SixteenTons_Chords.png, id=39, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_SixteenTons_Chords.png Graphic file (type png)
 <use QR_Codes/QR_SixteenTons_Chords.png>
 Package pdftex.def Info: QR_Codes/QR_SixteenTons_Chords.png  used on input line
@@ -312,21 +314,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-) [6
+) [7
 
 
 
 
- <./QR_Codes/QR_SixteenTons_Chords.png (PNG copy)>] [7
+ <./QR_Codes/QR_SixteenTons_Chords.png (PNG copy)>] [8
 
 
 
 ]
+\openout2 = `Folk/OverTheRainbow.aux'.
+
+
+(Folk/OverTheRainbow.tex
+<QR_Codes/QR_OverTheRainbow_Chords.png, id=46, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_OverTheRainbow_Chords.png Graphic file (type png)
+<use QR_Codes/QR_OverTheRainbow_Chords.png>
+Package pdftex.def Info: QR_Codes/QR_OverTheRainbow_Chords.png  used on input l
+ine 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--45
+
+ []
+
+[9
+
+
+ <./QR_Codes/QR_OverTheRainbow_Chords.png (PNG copy)>]
 \openout2 = `Rock/SultansOfSwing.aux'.
 
 
 (Rock/SultansOfSwing.tex
-<QR_Codes/QR_SultansOfSwing_BassChords.png, id=42, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_SultansOfSwing_BassChords.png, id=50, 7994.86874pt x 7994.86874pt>
 
 File: QR_Codes/QR_SultansOfSwing_BassChords.png Graphic file (type png)
 <use QR_Codes/QR_SultansOfSwing_BassChords.png>
@@ -348,31 +369,111 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-) [8
+) [10
+
+
 
 
  <./QR_Codes/QR_SultansOfSwing_BassChords.png (PNG copy)>]
-\openout2 = `Folk/OverTheRainbow.aux'.
+\openout2 = `Pop/BillieJean.aux'.
 
 
-(Folk/OverTheRainbow.tex
-<QR_Codes/QR_OverTheRainbow_Chords.png, id=46, 7994.86874pt x 7994.86874pt>
-File: QR_Codes/QR_OverTheRainbow_Chords.png Graphic file (type png)
-<use QR_Codes/QR_OverTheRainbow_Chords.png>
-Package pdftex.def Info: QR_Codes/QR_OverTheRainbow_Chords.png  used on input l
-ine 4.
+(Pop/BillieJean.tex
+<QR_Codes/QR_BillieJean_C.png, id=54, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_BillieJean_C.png Graphic file (type png)
+<use QR_Codes/QR_BillieJean_C.png>
+Package pdftex.def Info: QR_Codes/QR_BillieJean_C.png  used on input line 4.
 (pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 9--46
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
 
  []
 
-[9
+<QR_Codes/QR_BillieJean_Bb.png, id=55, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_BillieJean_Bb.png Graphic file (type png)
+<use QR_Codes/QR_BillieJean_Bb.png>
+Package pdftex.def Info: QR_Codes/QR_BillieJean_Bb.png  used on input line 13.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+<QR_Codes/QR_BillieJean_Eb.png, id=56, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_BillieJean_Eb.png Graphic file (type png)
+<use QR_Codes/QR_BillieJean_Eb.png>
+Package pdftex.def Info: QR_Codes/QR_BillieJean_Eb.png  used on input line 16.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Underfull \hbox (badness 2229) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 for Bb tuned In-stru-
+ []
+
+) [11
 
 
 
 
- <./QR_Codes/QR_OverTheRainbow_Chords.png (PNG copy)>] [10
+ <./QR_Codes/QR_BillieJean_C.png (PNG copy)> <./QR_Codes/QR_BillieJean_Bb.png (
+PNG copy)> <./QR_Codes/QR_BillieJean_Eb.png (PNG copy)>]
+\openout2 = `Rock/NothingElseMatters.aux'.
+
+
+(Rock/NothingElseMatters.tex
+<QR_Codes/QR_NothingElseMatters_C.png, id=61, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_NothingElseMatters_C.png Graphic file (type png)
+<use QR_Codes/QR_NothingElseMatters_C.png>
+Package pdftex.def Info: QR_Codes/QR_NothingElseMatters_C.png  used on input li
+ne 3.
+(pdftex.def)             Requested size: 79.34853pt x 79.29462pt.
+
+Underfull \hbox (badness 1616) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 for C tuned In-
+ []
+
+<QR_Codes/QR_NothingElseMatters_Bb_Clar.png, id=62, 7994.86874pt x 7994.86874pt
+>
+File: QR_Codes/QR_NothingElseMatters_Bb_Clar.png Graphic file (type png)
+<use QR_Codes/QR_NothingElseMatters_Bb_Clar.png>
+Package pdftex.def Info: QR_Codes/QR_NothingElseMatters_Bb_Clar.png  used on in
+put line 11.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Overfull \hbox (6.90147pt too wide) in paragraph at lines 11--12
+[]|[]| 
+ []
+
+<QR_Codes/QR_NothingElseMatters_Bb_TenSax.png, id=63, 7994.86874pt x 7994.86874
+pt>
+File: QR_Codes/QR_NothingElseMatters_Bb_TenSax.png Graphic file (type png)
+<use QR_Codes/QR_NothingElseMatters_Bb_TenSax.png>
+Package pdftex.def Info: QR_Codes/QR_NothingElseMatters_Bb_TenSax.png  used on 
+input line 14.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Overfull \hbox (6.90147pt too wide) in paragraph at lines 14--15
+[]|[]| 
+ []
+
+<QR_Codes/QR_NothingElseMatters_Eb.png, id=64, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_NothingElseMatters_Eb.png Graphic file (type png)
+<use QR_Codes/QR_NothingElseMatters_Eb.png>
+Package pdftex.def Info: QR_Codes/QR_NothingElseMatters_Eb.png  used on input l
+ine 17.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Overfull \hbox (6.90147pt too wide) in paragraph at lines 17--18
+[]|[]| 
+ []
+
+)
+Overfull \hbox (2.54768pt too wide) in paragraph at lines 10--48
+[][] 
+ []
+
+[12
+
+
+
+
+ <./QR_Codes/QR_NothingElseMatters_C.png (PNG copy)> <./QR_Codes/QR_NothingElse
+Matters_Bb_Clar.png (PNG copy)> <./QR_Codes/QR_NothingElseMatters_Bb_TenSax.png
+ (PNG copy)> <./QR_Codes/QR_NothingElseMatters_Eb.png (PNG copy)>] [13
 
 
 
@@ -381,7 +482,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--46
 
 
 (Blues/HowToBlues.tex
-<QR_Codes/QR_12BarBlues.png, id=53, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_12BarBlues.png, id=71, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_12BarBlues.png Graphic file (type png)
 <use QR_Codes/QR_12BarBlues.png>
 Package pdftex.def Info: QR_Codes/QR_12BarBlues.png  used on input line 4.
@@ -396,34 +497,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--17
 
  []
 
-) [11
+) [14
 
 
  <./QR_Codes/QR_12BarBlues.png (PNG copy)>]
+\openout2 = `Blues/AintNoSunshine.aux'.
+
+ (Blues/AintNoSunshine.tex
+<QR_Codes/QR_AintNoSunshine_C.png, id=75, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_AintNoSunshine_C.png Graphic file (type png)
+<use QR_Codes/QR_AintNoSunshine_C.png>
+Package pdftex.def Info: QR_Codes/QR_AintNoSunshine_C.png  used on input line 4
+.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+<QR_Codes/QR_AintNoSunshine_Bb.png, id=76, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_AintNoSunshine_Bb.png Graphic file (type png)
+<use QR_Codes/QR_AintNoSunshine_Bb.png>
+Package pdftex.def Info: QR_Codes/QR_AintNoSunshine_Bb.png  used on input line 
+12.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+<QR_Codes/QR_AintNoSunshine_Eb.png, id=77, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_AintNoSunshine_Eb.png Graphic file (type png)
+<use QR_Codes/QR_AintNoSunshine_Eb.png>
+Package pdftex.def Info: QR_Codes/QR_AintNoSunshine_Eb.png  used on input line 
+15.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+) [15
+
+
+
+
+ <./QR_Codes/QR_AintNoSunshine_C.png (PNG copy)> <./QR_Codes/QR_AintNoSunshine_
+Bb.png (PNG copy)> <./QR_Codes/QR_AintNoSunshine_Eb.png (PNG copy)>]
 \openout2 = `Folk/Miserlou.aux'.
 
- (Folk/Miserlou.tex
-<QR_Codes/QR_Miserlou_Bass.png, id=58, 7994.86874pt x 7994.86874pt>
+
+(Folk/Miserlou.tex
+<QR_Codes/QR_Miserlou_Bass.png, id=81, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Miserlou_Bass.png Graphic file (type png)
 <use QR_Codes/QR_Miserlou_Bass.png>
 Package pdftex.def Info: QR_Codes/QR_Miserlou_Bass.png  used on input line 4.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Miserlou_Bb.png, id=59, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Miserlou_Bb.png, id=82, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Miserlou_Bb.png Graphic file (type png)
 <use QR_Codes/QR_Miserlou_Bb.png>
 Package pdftex.def Info: QR_Codes/QR_Miserlou_Bb.png  used on input line 5.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Miserlou_C.png, id=60, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Miserlou_C.png, id=83, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Miserlou_C.png Graphic file (type png)
 <use QR_Codes/QR_Miserlou_C.png>
 Package pdftex.def Info: QR_Codes/QR_Miserlou_C.png  used on input line 6.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Miserlou_Eb.png, id=61, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Miserlou_Eb.png, id=84, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Miserlou_Eb.png Graphic file (type png)
 <use QR_Codes/QR_Miserlou_Eb.png>
 Package pdftex.def Info: QR_Codes/QR_Miserlou_Eb.png  used on input line 7.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Miserlou_Accordion.png, id=62, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Miserlou_Accordion.png, id=85, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Miserlou_Accordion.png Graphic file (type png)
 <use QR_Codes/QR_Miserlou_Accordion.png>
 Package pdftex.def Info: QR_Codes/QR_Miserlou_Accordion.png  used on input line
@@ -444,13 +579,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--18
 
  []
 
-<QR_Codes/QR_Miserlou_Guitar.png, id=63, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Miserlou_Guitar.png, id=86, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Miserlou_Guitar.png Graphic file (type png)
 <use QR_Codes/QR_Miserlou_Guitar.png>
 Package pdftex.def Info: QR_Codes/QR_Miserlou_Guitar.png  used on input line 19
 .
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-) [12
+) [16
 
 
 
@@ -462,13 +597,13 @@ R_Miserlou_Guitar.png (PNG copy)>]
 \openout2 = `Folk/DieReiseNachBatumi.aux'.
 
  (Folk/DieReiseNachBatumi.tex
-<QR_Codes/QR_DieReiseNachBatumi_C.png, id=67, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_DieReiseNachBatumi_C.png, id=90, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_DieReiseNachBatumi_C.png Graphic file (type png)
 <use QR_Codes/QR_DieReiseNachBatumi_C.png>
 Package pdftex.def Info: QR_Codes/QR_DieReiseNachBatumi_C.png  used on input li
 ne 3.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_DieReiseNachBatumi_Bb.png, id=68, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_DieReiseNachBatumi_Bb.png, id=91, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_DieReiseNachBatumi_Bb.png Graphic file (type png)
 <use QR_Codes/QR_DieReiseNachBatumi_Bb.png>
 Package pdftex.def Info: QR_Codes/QR_DieReiseNachBatumi_Bb.png  used on input l
@@ -479,7 +614,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-<QR_Codes/QR_DieReiseNachBatumi_Bass.png, id=69, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_DieReiseNachBatumi_Bass.png, id=92, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_DieReiseNachBatumi_Bass.png Graphic file (type png)
 <use QR_Codes/QR_DieReiseNachBatumi_Bass.png>
 Package pdftex.def Info: QR_Codes/QR_DieReiseNachBatumi_Bass.png  used on input
@@ -490,19 +625,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-<QR_Codes/QR_DieReiseNachBatumi_F.png, id=70, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_DieReiseNachBatumi_F.png, id=93, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_DieReiseNachBatumi_F.png Graphic file (type png)
 <use QR_Codes/QR_DieReiseNachBatumi_F.png>
 Package pdftex.def Info: QR_Codes/QR_DieReiseNachBatumi_F.png  used on input li
 ne 16.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_DieReiseNachBatumi_Eb.png, id=71, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_DieReiseNachBatumi_Eb.png, id=94, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_DieReiseNachBatumi_Eb.png Graphic file (type png)
 <use QR_Codes/QR_DieReiseNachBatumi_Eb.png>
 Package pdftex.def Info: QR_Codes/QR_DieReiseNachBatumi_Eb.png  used on input l
 ine 17.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-) [13
+) [17
 
 
 
@@ -514,17 +649,17 @@ achBatumi_Eb.png (PNG copy)>]
 \openout2 = `Folk/Giovanni.aux'.
 
  (Folk/Giovanni.tex
-<QR_Codes/QR_Giovanni_C.png, id=75, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Giovanni_C.png, id=99, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Giovanni_C.png Graphic file (type png)
 <use QR_Codes/QR_Giovanni_C.png>
 Package pdftex.def Info: QR_Codes/QR_Giovanni_C.png  used on input line 3.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Giovanni_Bb.png, id=76, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Giovanni_Bb.png, id=100, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Giovanni_Bb.png Graphic file (type png)
 <use QR_Codes/QR_Giovanni_Bb.png>
 Package pdftex.def Info: QR_Codes/QR_Giovanni_Bb.png  used on input line 4.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Giovanni_Eb.png, id=77, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Giovanni_Eb.png, id=101, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Giovanni_Eb.png Graphic file (type png)
 <use QR_Codes/QR_Giovanni_Eb.png>
 Package pdftex.def Info: QR_Codes/QR_Giovanni_Eb.png  used on input line 5.
@@ -534,18 +669,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
  []
 
-<QR_Codes/QR_Giovanni_Guitar.png, id=78, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Giovanni_Guitar.png, id=102, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Giovanni_Guitar.png Graphic file (type png)
 <use QR_Codes/QR_Giovanni_Guitar.png>
 Package pdftex.def Info: QR_Codes/QR_Giovanni_Guitar.png  used on input line 10
 .
 (pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 14--54
+Underfull \hbox (badness 10000) in paragraph at lines 14--57
 
  []
 
-[14
+[18
 
 
 
@@ -553,30 +688,88 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--54
  <./QR_Codes/QR_Giovanni_C.png (PNG copy)> <./QR_Codes/QR_Giovanni_Bb.png (PNG 
 copy)> <./QR_Codes/QR_Giovanni_Eb.png (PNG copy)> <./QR_Codes/QR_Giovanni_Guita
 r.png (PNG copy)>]
+\openout2 = `Folk/YorkersGuitar.aux'.
+
+ (Folk/YorkersGuitar.tex
+<QR_Codes/QR_Yorkers_C.png, id=106, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_Yorkers_C.png Graphic file (type png)
+<use QR_Codes/QR_Yorkers_C.png>
+Package pdftex.def Info: QR_Codes/QR_Yorkers_C.png  used on input line 4.
+(pdftex.def)             Requested size: 103.50105pt x 103.44897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+<QR_Codes/QR_Yorkers_Bb_Clar.png, id=107, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_Yorkers_Bb_Clar.png Graphic file (type png)
+<use QR_Codes/QR_Yorkers_Bb_Clar.png>
+Package pdftex.def Info: QR_Codes/QR_Yorkers_Bb_Clar.png  used on input line 11
+.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Overfull \hbox (6.90147pt too wide) in paragraph at lines 11--12
+[]|[]| 
+ []
+
+<QR_Codes/QR_Yorkers_Bb_TenSax.png, id=108, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_Yorkers_Bb_TenSax.png Graphic file (type png)
+<use QR_Codes/QR_Yorkers_Bb_TenSax.png>
+Package pdftex.def Info: QR_Codes/QR_Yorkers_Bb_TenSax.png  used on input line 
+14.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Overfull \hbox (6.90147pt too wide) in paragraph at lines 14--15
+[]|[]| 
+ []
+
+<QR_Codes/QR_Yorkers_Eb.png, id=109, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_Yorkers_Eb.png Graphic file (type png)
+<use QR_Codes/QR_Yorkers_Eb.png>
+Package pdftex.def Info: QR_Codes/QR_Yorkers_Eb.png  used on input line 17.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Overfull \hbox (6.90147pt too wide) in paragraph at lines 17--18
+[]|[]| 
+ []
+
+)
+Overfull \hbox (2.54768pt too wide) in paragraph at lines 10--58
+[][] 
+ []
+
+[19
+
+
+
+
+ <./QR_Codes/QR_Yorkers_C.png (PNG copy)> <./QR_Codes/QR_Yorkers_Bb_Clar.png (P
+NG copy)> <./QR_Codes/QR_Yorkers_Bb_TenSax.png (PNG copy)> <./QR_Codes/QR_Yorke
+rs_Eb.png (PNG copy)>]
 \openout2 = `Folk/Mohn.aux'.
 
  (Folk/Mohn.tex
-<QR_Codes/QR_Mohn_Altsax.png, id=82, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Mohn_Altsax.png, id=113, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Mohn_Altsax.png Graphic file (type png)
 <use QR_Codes/QR_Mohn_Altsax.png>
 Package pdftex.def Info: QR_Codes/QR_Mohn_Altsax.png  used on input line 4.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Mohn_Klar_1_B.png, id=83, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Mohn_Klar_1_B.png, id=114, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Mohn_Klar_1_B.png Graphic file (type png)
 <use QR_Codes/QR_Mohn_Klar_1_B.png>
 Package pdftex.def Info: QR_Codes/QR_Mohn_Klar_1_B.png  used on input line 5.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Mohn_Klar_2_B.png, id=84, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Mohn_Klar_2_B.png, id=115, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Mohn_Klar_2_B.png Graphic file (type png)
 <use QR_Codes/QR_Mohn_Klar_2_B.png>
 Package pdftex.def Info: QR_Codes/QR_Mohn_Klar_2_B.png  used on input line 6.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Mohn_Klavier.png, id=85, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Mohn_Klavier.png, id=116, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Mohn_Klavier.png Graphic file (type png)
 <use QR_Codes/QR_Mohn_Klavier.png>
 Package pdftex.def Info: QR_Codes/QR_Mohn_Klavier.png  used on input line 7.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-<QR_Codes/QR_Mohn_TenSax_1.png, id=86, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Mohn_TenSax_1.png, id=117, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Mohn_TenSax_1.png Graphic file (type png)
 <use QR_Codes/QR_Mohn_TenSax_1.png>
 Package pdftex.def Info: QR_Codes/QR_Mohn_TenSax_1.png  used on input line 12.
@@ -596,12 +789,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-<QR_Codes/QR_Mohn_TenSax_2.png, id=87, 7994.86874pt x 7994.86874pt>
+<QR_Codes/QR_Mohn_TenSax_2.png, id=118, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_Mohn_TenSax_2.png Graphic file (type png)
 <use QR_Codes/QR_Mohn_TenSax_2.png>
 Package pdftex.def Info: QR_Codes/QR_Mohn_TenSax_2.png  used on input line 18.
 (pdftex.def)             Requested size: 68.99895pt x 68.92531pt.
-) [15
+) [20
 
 
 
@@ -609,40 +802,94 @@ Package pdftex.def Info: QR_Codes/QR_Mohn_TenSax_2.png  used on input line 18.
  <./QR_Codes/QR_Mohn_Altsax.png (PNG copy)> <./QR_Codes/QR_Mohn_Klar_1_B.png (P
 NG copy)> <./QR_Codes/QR_Mohn_Klar_2_B.png (PNG copy)> <./QR_Codes/QR_Mohn_Klav
 ier.png (PNG copy)> <./QR_Codes/QR_Mohn_TenSax_1.png (PNG copy)> <./QR_Codes/QR
-_Mohn_TenSax_2.png (PNG copy)>]
-<QR_Codes/QR_SpotifyPlaylist.png, id=91, 7994.86874pt x 7994.86874pt>
+_Mohn_TenSax_2.png (PNG copy)>] [21
+
+
+
+]
+\openout2 = `Pop/RoteRosenRegnen.aux'.
+
+ (Pop/RoteRosenRegnen.tex
+<QR_Codes/QR_RoteRosenRegnen_C.png, id=125, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_RoteRosenRegnen_C.png Graphic file (type png)
+<use QR_Codes/QR_RoteRosenRegnen_C.png>
+Package pdftex.def Info: QR_Codes/QR_RoteRosenRegnen_C.png  used on input line 
+6.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Overfull \hbox (6.90147pt too wide) in paragraph at lines 6--7
+[]|[]| 
+ []
+
+<QR_Codes/QR_RoteRosenRegnen_Bb.png, id=126, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_RoteRosenRegnen_Bb.png Graphic file (type png)
+<use QR_Codes/QR_RoteRosenRegnen_Bb.png>
+Package pdftex.def Info: QR_Codes/QR_RoteRosenRegnen_Bb.png  used on input line
+ 9.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Overfull \hbox (6.90147pt too wide) in paragraph at lines 9--10
+[]|[]| 
+ []
+
+<QR_Codes/QR_RoteRosenRegnen_Eb.png, id=127, 7994.86874pt x 7994.86874pt>
+File: QR_Codes/QR_RoteRosenRegnen_Eb.png Graphic file (type png)
+<use QR_Codes/QR_RoteRosenRegnen_Eb.png>
+Package pdftex.def Info: QR_Codes/QR_RoteRosenRegnen_Eb.png  used on input line
+ 12.
+(pdftex.def)             Requested size: 86.25pt x 86.24814pt.
+
+Overfull \hbox (6.90147pt too wide) in paragraph at lines 12--13
+[]|[]| 
+ []
+
+)
+Overfull \hbox (2.54768pt too wide) in paragraph at lines 5--64
+[][] 
+ []
+
+[22
+
+
+ <./QR_Codes/QR_RoteRosenRegnen_C.png (PNG copy)> <./QR_Codes/QR_RoteRosenRegne
+n_Bb.png (PNG copy)> <./QR_Codes/QR_RoteRosenRegnen_Eb.png (PNG copy)>]
+<QR_Codes/QR_SpotifyPlaylist.png, id=131, 7994.86874pt x 7994.86874pt>
 File: QR_Codes/QR_SpotifyPlaylist.png Graphic file (type png)
 <use QR_Codes/QR_SpotifyPlaylist.png>
-Package pdftex.def Info: QR_Codes/QR_SpotifyPlaylist.png  used on input line 59
+Package pdftex.def Info: QR_Codes/QR_SpotifyPlaylist.png  used on input line 69
 .
 (pdftex.def)             Requested size: 345.0pt x 344.99258pt.
- [16
+
+[23
 
 
 
- <./QR_Codes/QR_SpotifyPlaylist.png (PNG copy)>] (TheCookbook.aux (Movies/LuxAe
-terna.aux) (Pop/HitTheRoadJack.aux)
-(Pop/FeedTheMachine.aux) (Pop/SixteenTons.aux) (Rock/SultansOfSwing.aux)
-(Folk/OverTheRainbow.aux) (Blues/HowToBlues.aux) (Folk/Miserlou.aux)
-(Folk/DieReiseNachBatumi.aux) (Folk/Giovanni.aux) (Folk/Mohn.aux)) ) 
+ <./QR_Codes/QR_SpotifyPlaylist.png (PNG copy)>] (TheCookbook.aux
+(Movies/LuxAeterna.aux) (Pop/HitTheRoadJack.aux) (Pop/FeedTheMachine.aux)
+(Pop/SixteenTons.aux) (Folk/OverTheRainbow.aux) (Rock/SultansOfSwing.aux)
+(Pop/BillieJean.aux) (Rock/NothingElseMatters.aux) (Blues/HowToBlues.aux)
+(Blues/AintNoSunshine.aux) (Folk/Miserlou.aux) (Folk/DieReiseNachBatumi.aux)
+(Folk/Giovanni.aux) (Folk/YorkersGuitar.aux) (Folk/Mohn.aux)
+(Pop/RoteRosenRegnen.aux)) ) 
 Here is how much of TeX's memory you used:
- 2598 strings out of 475385
- 53100 string characters out of 2775962
- 384600 words of memory out of 3000000
- 23870 multiletter control sequences out of 15000+600000
+ 2858 strings out of 475385
+ 63373 string characters out of 2775962
+ 385851 words of memory out of 3000000
+ 24078 multiletter control sequences out of 15000+600000
  474474 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,62p,1249b,228s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/P
-otzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr10.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr17.pfb><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TheCookbook.pdf (18 pages, 922872 bytes).
+ 55i,12n,62p,1249b,230s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Potzkai/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Potzkai/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Potzkai/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users
+/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pf
+b><C:/Users/Potzkai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb>
+Output written on TheCookbook.pdf (25 pages, 1377327 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
+ 162 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
