@@ -16,7 +16,6 @@ qr_path = os.path.dirname(__file__) +'/'
 make_qrcode(qr_path+'QR_FeedTheMachine.png','https://drive.google.com/file/d/1Db6Ug0zLC6MYR0MDvbHU-q7UPug2lBHZ/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_SixteenTons_Chords.png','https://drive.google.com/file/d/1Umn86kdy6vKL7eu00424nV5WImphKJd6/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_HitTheRoadJack_Chords.png','https://drive.google.com/file/d/1_DVB0jdnRM9bB043iI_6aLIJ1hE3N0GM/view?usp=sharing',177)
-make_qrcode(qr_path+'QR_OverTheRainbow_Chords.png','https://drive.google.com/file/d/1SXx1NqfWU1IdkkgBVRZP13PF4S6gko7s/view?usp=sharing',177)
 
 #Pop
 #Billie Jean
@@ -27,6 +26,12 @@ make_qrcode(qr_path+'QR_BillieJean_Bb.png','https://drive.google.com/file/d/13w8
 make_qrcode(qr_path+'QR_RoteRosenRegnen_C.png','https://drive.google.com/file/d/1USPjPHN5qE2BbEhuDVMcH0oZOgt7_hn7/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_RoteRosenRegnen_Bb.png','https://drive.google.com/file/d/1Fzi6QT2e78Y9HTl6tjKLdjYImgDMNxgh/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_RoteRosenRegnen_Eb.png','https://drive.google.com/file/d/1JBm830-YOsqzlykb7-GoCZs3grpMC6m0/view?usp=sharing',177)
+#Over the Rainbow
+make_qrcode(qr_path+'QR_OverTheRainbow_C.png','https://drive.google.com/file/d/1X1lVpF9FyxTtUqpCXFjjx1x3LmwioKdk/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_OverTheRainbow_Bb_Clar.png','https://drive.google.com/file/d/1tEPCe0QCipldWiNespmuZperSIXcM06W/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_OverTheRainbow_Bb_Trumpet.png','https://drive.google.com/file/d/1FdPv_AEZncQPWME1PjwnKliEiSq0WtqQ/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_OverTheRainbow_Eb.png','https://drive.google.com/file/d/1rigT586D1jy-CIs1u8deoEuTpjjHxAt9/view?usp=sharing',177)
+
 
 
 #QuadroNuevo
