@@ -3,7 +3,7 @@
 \contentsline {chapter}{Hit The Road Jack}{v}{}%
 \contentsline {chapter}{Feed The Machine}{vi}{}%
 \contentsline {chapter}{Sixteen Tons}{vii}{}%
-\contentsline {part}{II\hspace {1em}A bit more advanced! With sheets for instruments that won't call notes by their real names!}{viii}{}%
+\contentsline {part}{II\hspace {1em}A bit more advanced}{viii}{}%
 \contentsline {chapter}{Over The Rainbow}{ix}{}%
 \contentsline {chapter}{Sultans Of Swing}{x}{}%
 \contentsline {chapter}{Billie Jean}{xi}{}%
@@ -15,7 +15,8 @@
 \contentsline {chapter}{Die Reise Nach Batumi}{xvii}{}%
 \contentsline {chapter}{Giovanni Tranquillo}{xviii}{}%
 \contentsline {chapter}{Yorke's Guitar}{xix}{}%
-\contentsline {chapter}{Mohn}{xx}{}%
-\contentsline {part}{IV\hspace {1em}For our friends over 80}{xxi}{}%
-\contentsline {chapter}{Für mich soll's Rote Rosen Regnen}{xxii}{}%
-\contentsline {chapter}{}{xxiii}{}%
+\contentsline {chapter}{Misty}{xx}{}%
+\contentsline {chapter}{Mohn}{xxi}{}%
+\contentsline {part}{IV\hspace {1em}For our friends over 80}{xxii}{}%
+\contentsline {chapter}{Für mich soll's Rote Rosen Regnen}{xxiii}{}%
+\contentsline {chapter}{}{xxiv}{}%

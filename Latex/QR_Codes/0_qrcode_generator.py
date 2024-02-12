@@ -15,7 +15,13 @@ qr_path = os.path.dirname(__file__) +'/'
 #Simple Ones
 make_qrcode(qr_path+'QR_FeedTheMachine.png','https://drive.google.com/file/d/1Db6Ug0zLC6MYR0MDvbHU-q7UPug2lBHZ/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_SixteenTons_Chords.png','https://drive.google.com/file/d/1Umn86kdy6vKL7eu00424nV5WImphKJd6/view?usp=sharing',177)
+#HitTheRoadJack
 make_qrcode(qr_path+'QR_HitTheRoadJack_Chords.png','https://drive.google.com/file/d/1_DVB0jdnRM9bB043iI_6aLIJ1hE3N0GM/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_HitTheRoadJack_Piano.png','https://drive.google.com/file/d/1EjQ24Ns8cO_YMZj0sXjmJdEExPuxKgfe/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_HitTheRoadJack_Bb.png','https://drive.google.com/file/d/1DlDMc2Ez0BVMABByr4j-6d2qF_yomMpJ/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_HitTheRoadJack_Eb.png','https://drive.google.com/file/d/1nXsma-5nFJoybw7rrgSSX6S2OgCxmNbd/view?usp=sharing',177)
+
+
 
 #Pop
 #Billie Jean
@@ -67,6 +73,7 @@ make_qrcode(qr_path+'QR_Yorkers_Bb_TenSax.png','https://drive.google.com/file/d/
 make_qrcode(qr_path+'QR_Yorkers_Eb.png','https://drive.google.com/file/d/1BkZW8RrArcACnMg5gM0vbkTPNRSUbaUl/view?usp=sharing',177)
 
 
+
 #Blues
 make_qrcode(qr_path+'QR_12BarBlues.png','https://drive.google.com/file/d/1OHr9iwjNYFbsxZHoa1RS-AfROFuDm8Ch/view?usp=sharing',177)
 #Aint No Sunshine
@@ -74,20 +81,32 @@ make_qrcode(qr_path+'QR_AintNoSunshine_C.png','https://drive.google.com/file/d/1
 make_qrcode(qr_path+'QR_AintNoSunshine_Bb.png','https://drive.google.com/file/d/13f2lNUz1C247Ogn2C5tAnVGWg88JS_gu/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_AintNoSunshine_Eb.png','https://drive.google.com/file/d/1dTvrf3A48ORShqTAbUJTz7ogntp70PrM/view?usp=sharing',177)
 
+
+
 #Rock songs
 make_qrcode(qr_path+'QR_SultansOfSwing_BassChords.png','https://drive.google.com/file/d/14Mgmnunz_iVf0pWnBqPTu4IfZM3BnELL/view?usp=sharing',177)
-
 #Nothing Else Matters
 make_qrcode(qr_path+'QR_NothingElseMatters_C.png','https://drive.google.com/file/d/1QV1lAMdvw9MQjaJry_E1cfQB_R1GMIM5/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_NothingElseMatters_Bb_TenSax.png','https://drive.google.com/file/d/1FUrmalJmJsJ6YSIuoJ39RbBjvwQIzJvW/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_NothingElseMatters_Bb_Clar.png','https://drive.google.com/file/d/1M0lCglMcjoq9CazwwvrmcfK8G2shlN8h/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_NothingElseMatters_Eb.png','https://drive.google.com/file/d/1uVsQ0sEYltGi3-CQphSvynD7fugo4Fnu/view?usp=sharing',177)
 
+
+
 #Movie and Games
 make_qrcode(qr_path+'QR_LuxAeterna_C.png','https://drive.google.com/file/d/1AvHzKg3lPEnnRlelcVWPcTGUGytP3JMC/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_LuxAeterna_Bb.png','https://drive.google.com/file/d/1NPdjVjOLweDTzEvUCHCUMQDK6Kw2JQt_/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_LuxAeterna_Eb.png','https://drive.google.com/file/d/1Taa9JOiNix9KWtuwoB_Kr5P-veFFs4QZ/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_LuxAeterna_Chords.png','https://drive.google.com/file/d/1spoS4tFDuOX45NCh1EDfrDmjujJ_5gaF/view?usp=sharing',177)
+
+
+
+#Jazz Songs
+#Misty
+make_qrcode(qr_path+'QR_Misty_C.png','https://drive.google.com/file/d/1nLj0BwRtym9ie3egvLstCqjHEMf_yrA1/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_Misty_Bb_Clar.png','https://drive.google.com/file/d/1sf52akUNpAVC8uPWPksu18OX_avubJjw/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_Misty_Bb_TenSax.png','https://drive.google.com/file/d/1sSc9oblveNQpBqP6l1PVO2BylH9cLXBa/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_Misty_Eb.png','https://drive.google.com/file/d/1fwpVEigX2G3tcp1w7ifO-OB95wqQvS33/view?usp=sharing',177)
 
 
 make_qrcode(qr_path+'QR_SpotifyPlaylist.png','https://open.spotify.com/playlist/29o5CLQWelLBBaHMstmTTg?si=cf957ec2a51848a2',177)
