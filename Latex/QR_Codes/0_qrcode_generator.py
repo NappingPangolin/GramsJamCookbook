@@ -107,6 +107,10 @@ make_qrcode(qr_path+'QR_Misty_C.png','https://drive.google.com/file/d/1nLj0BwRty
 make_qrcode(qr_path+'QR_Misty_Bb_Clar.png','https://drive.google.com/file/d/1sf52akUNpAVC8uPWPksu18OX_avubJjw/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_Misty_Bb_TenSax.png','https://drive.google.com/file/d/1sSc9oblveNQpBqP6l1PVO2BylH9cLXBa/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_Misty_Eb.png','https://drive.google.com/file/d/1fwpVEigX2G3tcp1w7ifO-OB95wqQvS33/view?usp=sharing',177)
+#FlyMeToTheMoon
+make_qrcode(qr_path+'QR_FlyMeToTheMoon_C.png','https://drive.google.com/file/d/1YMtMuhKj-PoPnjcN4u2KdUhypH2COYJi/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_FlyMeToTheMoon_Bb.png','https://drive.google.com/file/d/1rZrEwCUua2juT37dwWSJBNo477wUh3Sc/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_FlyMeToTheMoon_Eb.png','https://drive.google.com/file/d/1afSnEV9t1xQP1n7V8YeKE1U-yoNJQm1s/view?usp=sharing',177)
 
 
 make_qrcode(qr_path+'QR_SpotifyPlaylist.png','https://open.spotify.com/playlist/29o5CLQWelLBBaHMstmTTg?si=cf957ec2a51848a2',177)

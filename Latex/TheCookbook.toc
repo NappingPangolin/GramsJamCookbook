@@ -18,5 +18,6 @@
 \contentsline {chapter}{Misty}{xx}{}%
 \contentsline {chapter}{Mohn}{xxi}{}%
 \contentsline {part}{IV\hspace {1em}For our friends over 80}{xxii}{}%
-\contentsline {chapter}{Für mich soll's Rote Rosen Regnen}{xxiii}{}%
-\contentsline {chapter}{}{xxiv}{}%
+\contentsline {chapter}{Fly Me to the Moon}{xxiii}{}%
+\contentsline {chapter}{Für mich soll's Rote Rosen Regnen}{xxiv}{}%
+\contentsline {chapter}{}{xxv}{}%
