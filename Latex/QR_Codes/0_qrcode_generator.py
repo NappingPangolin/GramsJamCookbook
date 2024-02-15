@@ -85,6 +85,7 @@ make_qrcode(qr_path+'QR_AintNoSunshine_Eb.png','https://drive.google.com/file/d/
 
 #Rock songs
 make_qrcode(qr_path+'QR_SultansOfSwing_BassChords.png','https://drive.google.com/file/d/14Mgmnunz_iVf0pWnBqPTu4IfZM3BnELL/view?usp=sharing',177)
+make_qrcode(qr_path+'QR_SultansOfSwing_LyricsChords.png','https://drive.google.com/file/d/12ey8yiDbB8bjwqNiFY8qKywqtbjeWyLv/view?usp=sharing',177)
 #Nothing Else Matters
 make_qrcode(qr_path+'QR_NothingElseMatters_C.png','https://drive.google.com/file/d/1QV1lAMdvw9MQjaJry_E1cfQB_R1GMIM5/view?usp=sharing',177)
 make_qrcode(qr_path+'QR_NothingElseMatters_Bb_TenSax.png','https://drive.google.com/file/d/1FUrmalJmJsJ6YSIuoJ39RbBjvwQIzJvW/view?usp=sharing',177)
