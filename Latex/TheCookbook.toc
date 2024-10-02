@@ -1,23 +1,23 @@
-\contentsline {part}{I\hspace {1em}Easy Starters}{ii}{}%
-\contentsline {chapter}{Lux Aeterna}{iii}{}%
-\contentsline {chapter}{Hit The Road Jack}{iv}{}%
-\contentsline {chapter}{Feed The Machine}{v}{}%
-\contentsline {chapter}{Sixteen Tons}{vi}{}%
-\contentsline {part}{II\hspace {1em}A bit more advanced}{vii}{}%
-\contentsline {chapter}{Over The Rainbow}{viii}{}%
-\contentsline {chapter}{Sultans Of Swing}{ix}{}%
-\contentsline {chapter}{Billie Jean}{x}{}%
-\contentsline {chapter}{Nothing Else Matters}{xi}{}%
-\contentsline {part}{III\hspace {1em}Jazz, Blues, Folk... you get the gist. }{xii}{}%
-\contentsline {chapter}{How To Blues}{xiii}{}%
-\contentsline {chapter}{Ain't no Sunshine}{xiv}{}%
-\contentsline {chapter}{Miserlou}{xv}{}%
-\contentsline {chapter}{Die Reise Nach Batumi}{xvi}{}%
-\contentsline {chapter}{Giovanni Tranquillo}{xvii}{}%
-\contentsline {chapter}{Yorke's Guitar}{xviii}{}%
-\contentsline {chapter}{Misty}{xix}{}%
-\contentsline {chapter}{Mohn}{xx}{}%
-\contentsline {part}{IV\hspace {1em}For our friends over 80}{xxi}{}%
-\contentsline {chapter}{Fly Me to the Moon}{xxii}{}%
-\contentsline {chapter}{Für mich soll's Rote Rosen Regnen}{xxiii}{}%
-\contentsline {chapter}{}{xxiv}{}%
+\contentsline {part}{I\hspace {1em}Easy Starters}{iii}{}%
+\contentsline {chapter}{Lux Aeterna}{iv}{}%
+\contentsline {chapter}{Hit The Road Jack}{v}{}%
+\contentsline {chapter}{Feed The Machine}{vi}{}%
+\contentsline {chapter}{Sixteen Tons}{vii}{}%
+\contentsline {part}{II\hspace {1em}A bit more advanced}{viii}{}%
+\contentsline {chapter}{Over The Rainbow}{ix}{}%
+\contentsline {chapter}{Sultans Of Swing}{x}{}%
+\contentsline {chapter}{Billie Jean}{xi}{}%
+\contentsline {chapter}{Nothing Else Matters}{xii}{}%
+\contentsline {part}{III\hspace {1em}Jazz, Blues, Folk... you get the gist. }{xiii}{}%
+\contentsline {chapter}{How To Blues}{xiv}{}%
+\contentsline {chapter}{Ain't no Sunshine}{xv}{}%
+\contentsline {chapter}{Miserlou}{xvi}{}%
+\contentsline {chapter}{Die Reise Nach Batumi}{xvii}{}%
+\contentsline {chapter}{Giovanni Tranquillo}{xviii}{}%
+\contentsline {chapter}{Yorke's Guitar}{xix}{}%
+\contentsline {chapter}{Misty}{xx}{}%
+\contentsline {chapter}{Mohn}{xxi}{}%
+\contentsline {part}{IV\hspace {1em}For our friends over 80}{xxii}{}%
+\contentsline {chapter}{Fly Me to the Moon}{xxiii}{}%
+\contentsline {chapter}{Für mich soll's Rote Rosen Regnen}{xxiv}{}%
+\contentsline {chapter}{}{xxv}{}%
